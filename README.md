@@ -1,4 +1,4 @@
-# Medusa
+# Medusa MCP
 
 Work with your Medusa Cloud account from Claude in plain language. This plugin connects Claude to Medusa's hosted MCP server, so Claude can read data from the stores in your Medusa Cloud organization, such as orders, products, customers, and custom API routes, and answer questions about building with Medusa from the official Medusa documentation.
 
