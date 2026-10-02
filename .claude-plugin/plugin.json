@@ -1,0 +1,22 @@
+{
+  "name": "medusa",
+  "displayName": "Medusa",
+  "version": "1.0.0",
+  "description": "Connect Claude to your Medusa Cloud account to read your stores' orders, products, customers, and custom API routes, and get answers from the Medusa docs.",
+  "author": {
+    "name": "Medusa",
+    "url": "https://medusajs.com"
+  },
+  "homepage": "https://cloud.medusajs.com",
+  "repository": "https://github.com/medusajs/medusa-mcp-plugin",
+  "license": "MIT",
+  "keywords": [
+    "medusa",
+    "medusa-cloud",
+    "commerce",
+    "ecommerce"
+  ],
+  "privacyPolicyUrl": "https://medusajs.com/privacy-policy",
+  "termsOfServiceUrl": "https://medusajs.com/terms-of-service",
+  "supportUrl": "https://medusajs.com/contact"
+}

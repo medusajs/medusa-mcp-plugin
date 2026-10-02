@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "medusa": {
+      "type": "http",
+      "url": "https://cloud.medusajs.com/mcp"
+    }
+  }
+}
